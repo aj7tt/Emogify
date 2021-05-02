@@ -1,8 +1,5 @@
 # Emogify 😞⚽😇 🍜❤️
 
-<div class="tenor-gif-embed" data-postid="17468910" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/face-with-medical-mask-people-joypixels-avoid-sickness-avoid-spreading-diseases-gif-17468910">Face With Medical Mask People GIF</a> from <a href="https://tenor.com/search/facewithmedicalmask-gifs">Facewithmedicalmask GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
 we have always struggled to make our text messages more expressive !! such as we text "Let's play football!" and search for the most appropriate emoji to this sentence.
 
 So rather than searching the most appropriate emoji to your sentence "Let's play football"
