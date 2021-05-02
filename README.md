@@ -1,7 +1,6 @@
 # Emogify 😞⚽😇 🍜❤️
 
-![image](https://user-images.githubusercontent.com/67835881/116827558-2a2eb100-abb7-11eb-81f0-72ec0e7c4383.png)
-
+![image](https://user-images.githubusercontent.com/67835881/116827636-af19ca80-abb7-11eb-87c3-3d01320f1746.png)
 
 we have always struggled to make our text messages more expressive !! such as we text "Let's play football!" and search for the most appropriate emoji to this sentence.
 
@@ -32,6 +31,13 @@ Downloading Link-> [Datasets Link](https://www.kaggle.com/alvinrindra/emojify)
 Downloading Link-> [glove.6B.50D.txt](https://www.kaggle.com/watts2/glove6b50dtxt)
 
 <hr>
+
+# Algorithm 
+
+LSTM 
+<br>
+![image](https://user-images.githubusercontent.com/67835881/116827698-0ddf4400-abb8-11eb-9402-e725e1e17794.png)
+
 
 # Result 🎆
 
