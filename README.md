@@ -1,6 +1,5 @@
 # Emogify 😞⚽😇 🍜❤️
 
-![image](https://user-images.githubusercontent.com/67835881/116827636-af19ca80-abb7-11eb-87c3-3d01320f1746.png)
 
 we have always struggled to make our text messages more expressive !! such as we text "Let's play football!" and search for the most appropriate emoji to this sentence.
 
