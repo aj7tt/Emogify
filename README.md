@@ -14,8 +14,9 @@ this model can automatically turn this into "Let's play football⚽"
 
 <strong> Datasets</strong> consisting of different sentences along with the labels. Labels represent a particular emoji representing the sentence.😞⚽😇 🍜❤️
 <br>
--test_emoji.csv - for testing our model with shape (315, 4) <br>
--train_emoji.csv - for training our model with shape (56, 2) <br>
+
+- **test_emoji.csv** -  for testing our model with shape (315, 4) <br>
+- **train_emoji.csv** - for training our model with shape (56, 2) <br>
 
 Downloading Link-> [Datasets Link](https://www.kaggle.com/alvinrindra/emojify)
 
