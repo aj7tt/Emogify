@@ -17,6 +17,9 @@ this model can automatically turn this into "Let's play football⚽"
 -train_emoji.csv - for training our model with shape (56, 2) <br>
 
 Downloading Link-> [Datasets Link](https://www.kaggle.com/alvinrindra/emojify)
+
+![image](https://user-images.githubusercontent.com/67835881/116827195-6f51e380-abb5-11eb-8e71-62e60afda81b.png)
+
 <br> <br>
 <strong> GloVe: Global Vectors for Word Representation </strong><br>
 -This Project contains English word vectors pre-trained on the combined Wikipedia 2014 + Gigaword 
