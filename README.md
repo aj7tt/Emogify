@@ -10,3 +10,4 @@ So rather than searching the most appropriate emoji to your sentence "Let's play
 this model can automatically turn this into "Let's play football⚽"
  
 
+![emoji](Datasets/emoji.png)
