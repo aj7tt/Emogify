@@ -15,15 +15,13 @@ this model can automatically turn this into "Let's play football⚽"
 
 # Datasets 
 
-Datasets consiting of different sentences along with the labels. Labels represent a particular emoji representing the sentence.😞⚽😇 🍜❤️
+<strong> Datasets</strong> consisting of different sentences along with the labels. Labels represent a particular emoji representing the sentence.😞⚽😇 🍜❤️
 <br>
-test_emoji.csv - for testing our model <br>
-train_emoji.csv - for training our model <br>
+test_emoji.csv - for testing our model with shape (315, 4) <br>
+train_emoji.csv - for training our model with shape (56, 2) <br>
 
-The shape of training datsets (315, 4)  <br>
-The shape of testing datsets (56, 2) <br>
 Downloading Link-> [Datasets Link](https://www.kaggle.com/alvinrindra/emojify)
-<br>
+<br> <br>
 <strong> GloVe: Global Vectors for Word Representation </strong><br>
 This Project contains English word vectors pre-trained on the combined Wikipedia 2014 + Gigaword 5th Edition corpora (6B tokens, 400K vocab). <br>
 All tokens are in lowercase. This dataset contains 50-dimensional, pre trained word vectors. <br>
