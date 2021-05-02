@@ -26,3 +26,5 @@ Downloading Link-> [Datasets Link](https://www.kaggle.com/alvinrindra/emojify)
 Downloading Link-> [glove.6B.50D.txt](https://www.kaggle.com/watts2/glove6b50dtxt)
 
 <hr>
+
+![image](https://user-images.githubusercontent.com/67835881/116827121-1a15d200-abb5-11eb-9557-ae85127d2e70.png)
