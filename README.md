@@ -1,7 +1,5 @@
 # Emogify 😞⚽😇 🍜❤️
 
-<hr>
-
 ![mask_emoji](https://tenor.com/view/face-with-medical-mask-people-joypixels-avoid-sickness-avoid-spreading-diseases-gif-17468910)
  
 we have always struggled to make our text messages more expressive !! such as we text "Let's play football!" and search for the most appropriate emoji to this sentence.
@@ -27,3 +25,5 @@ This Project contains English word vectors pre-trained on the combined Wikipedia
 <br> 5th Edition corpora (6B tokens, 400K vocab). All tokens are in lowercase. This dataset 
 <br>contains 50-dimensional, pre trained word vectors. <br>
 Downloading Link-> [glove.6B.50D.txt](https://www.kaggle.com/watts2/glove6b50dtxt)
+
+<hr>
