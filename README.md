@@ -1,5 +1,8 @@
 # Emogify 😞⚽😇 🍜❤️
 
+![image](https://user-images.githubusercontent.com/67835881/116827558-2a2eb100-abb7-11eb-81f0-72ec0e7c4383.png)
+
+
 we have always struggled to make our text messages more expressive !! such as we text "Let's play football!" and search for the most appropriate emoji to this sentence.
 
 So rather than searching the most appropriate emoji to your sentence "Let's play football"
@@ -36,4 +39,8 @@ Downloading Link-> [glove.6B.50D.txt](https://www.kaggle.com/watts2/glove6b50dtx
 
 ## Resources 💁🏻‍♂️💁
 
-[Understanding LSTM Networks] (https://colah.github.io/posts/2015-08-Understanding-LSTMs/?source=post_page---------------------------)
+[Keras Sequential model](https://faroit.com/keras-docs/1.0.1/getting-started/sequential-model-guide/)
+<br>
+[Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/?source=post_page---------------------------)
+
+
