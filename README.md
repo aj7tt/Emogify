@@ -1,4 +1,4 @@
-## Emogify 😞⚽😇 🍜❤️
+# Emogify 😞⚽😇 🍜❤️
 
 <hr>
 
@@ -23,6 +23,7 @@ train_emoji.csv - for training our model with shape (56, 2) <br>
 Downloading Link-> [Datasets Link](https://www.kaggle.com/alvinrindra/emojify)
 <br> <br>
 <strong> GloVe: Global Vectors for Word Representation </strong><br>
-This Project contains English word vectors pre-trained on the combined Wikipedia 2014 + Gigaword 5th Edition corpora (6B tokens, 400K vocab). <br>
-All tokens are in lowercase. This dataset contains 50-dimensional, pre trained word vectors. <br>
+This Project contains English word vectors pre-trained on the combined Wikipedia 2014 + Gigaword 
+<br> 5th Edition corpora (6B tokens, 400K vocab). All tokens are in lowercase. This dataset 
+<br>contains 50-dimensional, pre trained word vectors. <br>
 Downloading Link-> [glove.6B.50D.txt](https://www.kaggle.com/watts2/glove6b50dtxt)
