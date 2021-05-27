@@ -50,5 +50,5 @@ LSTM
 [Keras Sequential model](https://faroit.com/keras-docs/1.0.1/getting-started/sequential-model-guide/)
 <br>
 [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/?source=post_page---------------------------)
-
+[Guide to LSTM’s ](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 
