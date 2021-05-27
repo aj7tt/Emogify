@@ -36,6 +36,8 @@ Downloading Link-> [glove.6B.50D.txt](https://www.kaggle.com/watts2/glove6b50dtx
 
 LSTM 
 <br>
+![WorkingOfLSTM](https://miro.medium.com/max/1920/1*n-IgHZM5baBUjq0T7RYDBw.gif)
+
 ![image](https://user-images.githubusercontent.com/67835881/116827698-0ddf4400-abb8-11eb-9402-e725e1e17794.png)
 
 
